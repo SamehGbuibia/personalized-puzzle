@@ -4,10 +4,10 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "puzzle_mvvm")
+set(BINARY_NAME "personalized puzzle")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.example.puzzle_mvvm")
+set(APPLICATION_ID "com.samehgbuibia.personalized_puzzle.kids.adults.gifts.your_photos.own_photos.picture.app")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
