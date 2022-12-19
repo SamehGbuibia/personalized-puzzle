@@ -1,0 +1,23 @@
+{
+  "puzzleClassique" : "أحجية كلاسيكية",
+  "puzzleCoulissant" : "أحجية منزلقة",
+  "addPuzzle" : "أضف أحجية",
+  "difficulte" : "الصعوبة",
+  "bravo" : "أحسنت !",
+  "upload" : "رفع",
+  "titleHint" : "عنوان الأحجية",
+  "tapper" : "...اضغط",
+  "titleError" : "عنوان خاطئ",
+  "back" : "الى الخلف",
+  "nowPick" : "الآن ...اختر",
+  "timeToCreate" : "حان وقت انشاء",
+  "picture" : "صورة !",
+  "yourPuzzle" : "أحجيتك",
+  "personnalised" : "الخاصة",
+  "startWithName" : "نبدأ بالاسم",
+  "fromGallerie" : "من معرض الصور",
+  "recordVoice" : "سجل الصوت",
+  "cEstParti" : "هيا بنا !",
+  "vasY" : "انطلق !",
+  "choisit":"إختر..."
+}

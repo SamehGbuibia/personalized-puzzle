@@ -1,0 +1,23 @@
+{
+  "puzzleClassique" : "Puzzle Classique",
+  "puzzleCoulissant" : "Puzzle Coulissant",
+  "addPuzzle" : "Ajout Puzzle",
+  "difficulte" : "Difficulté",
+  "bravo" : "Bravo !",
+  "upload" : "Télécharger",
+  "titleHint" : "Titre de Puzzle",
+  "tapper" : "Tapper...",
+  "titleError" : "Titre invalid",
+  "back" : "Retour",
+  "nowPick" : "Maintenant... Choisissez un",
+  "timeToCreate" : "Le Temps Pour créer",
+  "picture" : "Image!",
+  "yourPuzzle" : "Votre Puzzle",
+  "personnalised" : "Personnalisé",
+  "startWithName" : "Commençant par le nom",
+  "fromGallerie" : "De la galerie",
+  "recordVoice" : "Enregistrer une voix",
+  "cEstParti" : "C'est parti!",
+  "vasY" : "Vas-y !",
+  "choisit":"Choisit... "
+}

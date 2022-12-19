@@ -1,0 +1,23 @@
+{
+  "puzzleClassique" : "Classic Puzzle",
+  "puzzleCoulissant" : "Sliding Puzzle",
+  "addPuzzle" : "Add Puzzle",
+  "difficulte" : "Difficulty",
+  "bravo" : "Congratulations !",
+  "upload" : "Upload",
+  "titleHint" : "Puzzle title",
+  "tapper" : "Tap...",
+  "titleError" : "Title invalid",
+  "back" : "Back",
+  "nowPick" : "Now ...Pick a",
+  "timeToCreate" : "Time to create",
+  "picture" : "Picture!",
+  "yourPuzzle" : "Your Puzzle",
+  "personnalised" : "personalized",
+  "startWithName" : "Starting with the name",
+  "fromGallerie" : "From Gallerie",
+  "recordVoice" : "Record a voice",
+  "cEstParti" : "Let's go !",
+  "vasY" : "Go ahead !",
+  "choisit":"Choose..."
+  }
