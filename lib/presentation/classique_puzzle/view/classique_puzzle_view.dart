@@ -40,7 +40,6 @@ class _ClassiquePuzzleViewState extends State<ClassiquePuzzleView> {
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
-
     return Scaffold(
       backgroundColor: ColorsManager.lightOrange,
       floatingActionButtonLocation: context.locale == ARABIC_LOCAL
